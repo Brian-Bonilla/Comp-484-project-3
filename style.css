@@ -1,4 +1,4 @@
-body {
+ body {
   font-family: Arial, sans-serif;
   background-color: #f4f4f4;
   padding-top: 20px;
@@ -32,9 +32,8 @@ body {
   display: inline-block; /* Ensure anchor tag acts like a button */
 }
 
-/* --- Task 2 Requirement: The Hiding Class --- */
-/* This class must be defined to enable the toggle functionality later. */
+
 .hidden {
-  /* Sets the element to be completely invisible and not take up space. */
+
   display: none;
 }
